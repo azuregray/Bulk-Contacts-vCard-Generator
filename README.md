@@ -51,7 +51,7 @@ python vcard_generator.py
 
 ---
 
-- **URL for this repo is as below**
+- **URL for the origin repository is as below**
 
 > https://github.com/azuregray/Bulk-Contacts-vCard-Generator
 
