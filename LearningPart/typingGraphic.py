@@ -1,6 +1,6 @@
 import time
 
-finalMessage = "Saved 24 contacts successfully to Parents.vcard"
+finalMessage = "Saved contacts successfully to Example.vcard"
 
 for char in finalMessage:
     print(str(char), end='', flush=True)

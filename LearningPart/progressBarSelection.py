@@ -1,7 +1,10 @@
 '''
-::: NOTES
+
+:: NOTES
+
 1. TQDM Progress Bar is easy to implement but basic.
 2. Colorama Progress Bar is comparatively harder to implement but looks better.
+
 '''
 
 
@@ -12,7 +15,7 @@ from colorama import Fore, Style
 
 
 choice = int(input("::: PROGRESS BARS :::\n\nChoose your style:\n1. TQDM\n2. COLORAMA\n3. Exit\n\n"))
-# switch(choice):               PYTHON DOESNT HAVE SWITCH STATEMENT
+# switch(choice):               PYTHON DOESNT HAVE SWITCH CASE STATEMENT
 while(choice):
     if choice == 1:
         # Iterate over a range of 100 with a progress bar
