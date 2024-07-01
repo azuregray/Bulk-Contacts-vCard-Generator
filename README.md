@@ -27,7 +27,7 @@ python -m pip install time
 # Assuming you are inside the cloned folder
 # Just run this:
 
-python vCard_Generator.py
+python vcard_generator.py
 ```
 ---
 
