@@ -44,6 +44,7 @@ cell.txt with 10-digit cell phone numbers in each line of the file.
 Location of cell.txt : Current Directory
 =================================================================================================================== DOCUMENTATION ENDS HERE
 '''
+
 import os, tkinter as tk, time
 from tkinter import filedialog
 
@@ -127,3 +128,5 @@ print('\n\n')
 
 contactsFile.close()
 outFile.close()
+
+# END OF CODE
