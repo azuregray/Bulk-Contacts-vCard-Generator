@@ -16,8 +16,10 @@ python -m pip install time
 ```
 - **How to run**
 
+> MADE ON WINDOWS, MADE FOR WINDOWS
+
 > Please note that this code is currently intended to run on Windows CLI only.
-> (Windows Terminal to be exact)
+> Windows Terminal to be exact.
 
 ```
 # Assuming you are inside the cloned folder
@@ -31,12 +33,26 @@ python vcard_generator.py
 
 ---
 
-- **All the following is available inside _vCard_Generator.py_ **
+- **All the following is available inside _vCard_Generator.py_**
 
-> Developer Noes
+> Author Bio
+
+> Official VCF Dataframe Format
+
+> Developer Notes
+
+> Tester Notes
+
+> Future Enhancements
 
 > User Notes
 
-> Additional Notes
+> Input Requirements
+
+---
+
+- **References**
+
+> [GeeksForGeeks](https://www.geeksforgeeks.org/reading-writing-text-files-python/) | [PyPI Docs](https://docs.python.org/3/library/os.html) | [Reddit](https://www.reddit.com/r/Batch/comments/ec8bwi/whats_the_universal_path_to_the_users_downloads/) | [StackOverflow](https://stackoverflow.com/questions/11198718/writing-to-a-file-in-a-for-loop-only-writes-the-last-value) | [Google Gemini](https://gemini.google.com/)
 
 ---

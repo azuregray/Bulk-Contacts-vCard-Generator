@@ -1,45 +1,45 @@
 '''
 =================================================================================================================== DOCUMENTATION STARTS HERE
-:: AUTHOR :::: D A R S H A N   S
+:: AUTHOR :::::: D A R S H A N   S
 You can find this script origin here :: https://github.com/azuregray/
 ===================================================================================================================
-:: Official VCF File Data Format
+:: Official VCF Dataframe Format
+
 # VCF = Virtual Contact File
 
-BEGIN:VCARD
-VERSION:2.1
-N:<lastName>;<FirstName>;<middleName>;<honorificPrefixes>;<honorificSuffixes>;
-FN:<fullName>
-TEL;CELL:<mobNumber10Digits>
-END:VCARD
+  BEGIN:VCARD
+  VERSION:2.1
+  N:<lastName>;<FirstName>;<middleName>;<honorificPrefixes>;<honorificSuffixes>;
+  FN:<fullName>
+  TEL;CELL:<mobNumber10Digits>
+  END:VCARD
 
 ============================================================= DEVELOPER NOTES
-:: SOURCES:
-https://www.geeksforgeeks.org/reading-writing-text-files-python/
-https://docs.python.org/3/library/os.html
-https://www.reddit.com/r/Batch/comments/ec8bwi/whats_the_universal_path_to_the_users_downloads/
-https://stackoverflow.com/questions/11198718/writing-to-a-file-in-a-for-loop-only-writes-the-last-value
-https://gemini.google.com/
+:: SOURCES / REFERENCES:
+Available to refer on GitHub Repository ~ README.md ~
 
 :: There are 6 file access modes in Python:
 
-Read Only (‘r’)
-Read and Write (‘r+’)
-Write Only (‘w’)
-Write and Read (‘w+’)
-Append Only (‘a’)
-Append and Read (‘a+’)
+  Read Only (‘r’)
+  Read and Write (‘r+’)
+  Write Only (‘w’)
+  Write and Read (‘w+’)
+  Append Only (‘a’)
+  Append and Read (‘a+’)
 
-:: Special Note
-The Commented Lines are yet to be worked on.
+:: Tester Notes
 Use random mobile number generator for testing: https://www.akto.io/tools/phone-number-generator
 DONT FORGET TO REMOVE "+91 " prefix from each line.
 
+:: Future Enhancements
+The commented lines are yet to be worked on.
+
 ============================================================= USER NOTES
 MADE ON WINDOWS, MADE FOR WINDOWS
+
 [INFO] We are using VCF format of vCard version 2.1.
 
-:: REQUIRED 
+:: Input Requirements
 cell.txt with 10-digit cell phone numbers in each line of the file.
 Location of cell.txt : Current Directory
 =================================================================================================================== DOCUMENTATION ENDS HERE
