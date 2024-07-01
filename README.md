@@ -31,6 +31,10 @@ python vcard_generator.py
 
 ---
 
-> ADDITIONAL NOTES IS AVAILABLE AS DOCUMENTATION INSIDE vCard_Generator.py
+- **All the following is available inside _**vCard_Generator.py**_
+
+> Developer Noes
+> User Notes
+> Additional Notes
 
 ---
