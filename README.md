@@ -9,13 +9,13 @@
 ---
 ## Installation
 
-- **Requirements / Dependencies:**
+- **Requirements / Dependencies**
 ```
 python -m pip install os
 python -m pip install tkinter
 python -m pip install time
 ```
-- **How to run:**
+- **How to run**
 
 > MADE ON WINDOWS, MADE FOR WINDOWS
 
@@ -49,13 +49,13 @@ python vcard_generator.py
 
 ---
 
-- **URL for this repo is as below:**
+- **URL for this repo is as below**
 
 > https://github.com/azuregray/Bulk-Contacts-vCard-Generator
 
 ---
 
-- **References:**
+- **References**
 
 > [GeeksForGeeks](https://www.geeksforgeeks.org/reading-writing-text-files-python/) | [PyPI Docs](https://docs.python.org/3/library/os.html) | [Reddit](https://www.reddit.com/r/Batch/comments/ec8bwi/whats_the_universal_path_to_the_users_downloads/) | [StackOverflow](https://stackoverflow.com/questions/11198718/writing-to-a-file-in-a-for-loop-only-writes-the-last-value) | [Google Gemini](https://gemini.google.com/)
 
