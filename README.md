@@ -9,13 +9,13 @@
 ---
 ## Installation
 
-- **Requirements / Dependencies**
+- **Requirements / Dependencies:**
 ```
 python -m pip install os
 python -m pip install tkinter
 python -m pip install time
 ```
-- **How to run**
+- **How to run:**
 
 > MADE ON WINDOWS, MADE FOR WINDOWS
 
