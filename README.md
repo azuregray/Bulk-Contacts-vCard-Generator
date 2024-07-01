@@ -55,7 +55,7 @@ python vcard_generator.py
 
 ---
 
-- **References**
+- **References:**
 
 > [GeeksForGeeks](https://www.geeksforgeeks.org/reading-writing-text-files-python/) | [PyPI Docs](https://docs.python.org/3/library/os.html) | [Reddit](https://www.reddit.com/r/Batch/comments/ec8bwi/whats_the_universal_path_to_the_users_downloads/) | [StackOverflow](https://stackoverflow.com/questions/11198718/writing-to-a-file-in-a-for-loop-only-writes-the-last-value) | [Google Gemini](https://gemini.google.com/)
 
