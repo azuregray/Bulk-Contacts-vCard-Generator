@@ -45,7 +45,7 @@ python vcard_generator.py
 
 > Input Requirements
 
-> ACTUAL WORKING CODE
+> Actual Working Code
 
 ---
 
