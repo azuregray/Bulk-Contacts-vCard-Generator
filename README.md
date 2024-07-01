@@ -2,7 +2,7 @@
 
 > Author: **Darshan S**
 
-> My Identity >>  [Github](https://github.com/azuregray/) | [LinkedIn](https://linkedin.com/in/arcticblue/) | [Instagram](https://instagram.com/thedarshgowda/) | [YouTube](https://www.youtube.com/@pantoneblue/) | [Telegram](https://t.me/adobegreen/) | [Email](mailto:d7gowda@gmail.com)
+> My Identity >>  [Github](https://github.com/azuregray/) | [LinkedIn](https://linkedin.com/in/arcticblue/) | [Instagram](https://instagram.com/thedarshgowda/) | [YouTube](https://www.youtube.com/@pantoneblue/) | [Telegram](https://t.me/adobegreen/) | [Mail](mailto:d7gowda@gmail.com)
 
 #### A polished CLI tool to export saved mobile numbers all in a single standard VCF file. (vCard Version 2.1)
 ---
