@@ -1,7 +1,7 @@
 # **B U L K &emsp; v C A R D &emsp; G E N E R A T O R**
 ### O N &ensp; S E L F &ensp; I N T E R E S T
 
-> Author: **Darshan S**
+> Author: **D A R S H A N &ensp; S**
 
 > My Identity >>  [Github](https://github.com/azuregray/) | [LinkedIn](https://linkedin.com/in/arcticblue/) | [Instagram](https://instagram.com/thedarshgowda/) | [YouTube](https://www.youtube.com/@pantoneblue/) | [Telegram](https://t.me/adobegreen/) | [Mail](mailto:d7gowda@gmail.com)
 
@@ -20,12 +20,14 @@ python -m pip install time
 > MADE ON WINDOWS, MADE FOR WINDOWS
 
 > Please note that this code is currently intended to run on Windows CLI only.
+
 > Windows Terminal to be exact.
 
 ```
 # Assuming you are inside the cloned folder
 # Just run this:
-python vcard_generator.py
+
+python vCard_Generator.py
 ```
 ---
 
