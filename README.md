@@ -27,11 +27,6 @@ python -m pip install time
 python vcard_generator.py
 ```
 ---
-- **URL for this repo is as below:**
-
-> https://github.com/azuregray/Bulk-Contacts-vCard-Generator
-
----
 
 - **All the following is available inside _vCard_Generator.py_**
 
@@ -50,6 +45,12 @@ python vcard_generator.py
 > Input Requirements
 
 > ACTUAL WORKING CODE
+
+---
+
+- **URL for this repo is as below:**
+
+> https://github.com/azuregray/Bulk-Contacts-vCard-Generator
 
 ---
 
