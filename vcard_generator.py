@@ -34,9 +34,11 @@ Append and Read (‘a+’)
 The Commented Lines are yet to be worked on.
 Use random mobile number generator for testing: https://www.akto.io/tools/phone-number-generator
 DONT FORGET TO REMOVE "+91 " prefix from each line.
+
 ============================================================= USER NOTES
 MADE ON WINDOWS, MADE FOR WINDOWS
 [INFO] We are using VCF format of vCard version 2.1.
+
 :: REQUIRED 
 cell.txt with 10-digit cell phone numbers in each line of the file.
 Location of cell.txt : Current Directory

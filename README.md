@@ -31,10 +31,12 @@ python vcard_generator.py
 
 ---
 
-- **All the following is available inside _**vCard_Generator.py**_
+- **All the following is available inside _vCard_Generator.py_ **
 
 > Developer Noes
+
 > User Notes
+
 > Additional Notes
 
 ---
